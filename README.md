@@ -5,7 +5,7 @@
 # 依赖
 
 依赖的仓库：
-+ [HangZhouShuChengKeJi.github.io](https://github.com/HangZhouShuChengKeJi/HangZhouShuChengKeJi.github.io.git) 组织机构的站点文件（html等）。存放 jekyll 生成的静态站点文件。
++ [HangZhouShuChengKeJi.github.io](https://github.com/HangZhouShuChengKeJi/HangZhouShuChengKeJi.github.io.git) 组织机构的站点文件（html等），即 jekyll 生成的静态站点文件。
 + [site](https://github.com/HangZhouShuChengKeJi/site.git) 组织机构站点文件的源文件（原始 markdown 文件）
 
 
