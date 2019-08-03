@@ -1,6 +1,7 @@
 ---
 title: 橙果错题本隐私政策
 author: 橙果错题本
+date:   2019-08-01
 layout: article
 collection: doc
 show_title: false
