@@ -14,3 +14,6 @@ header:
   - titles:
       zh:       关于
     url:        /about.html
+  - titles:
+      zh:       Github
+    url:        https://github.com/HangZhouShuChengKeJi
