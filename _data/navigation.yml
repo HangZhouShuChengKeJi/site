@@ -9,5 +9,8 @@ header:
       zh:       归档
     url:        /archive.html
   - titles:
+      zh:       帮助
+    url:        /doc/help/index.html
+  - titles:
       zh:       关于
     url:        /about.html
