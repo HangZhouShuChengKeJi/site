@@ -114,7 +114,6 @@ h6 {
 }
 
 a {
-  font-weight: map-get($base, font-weight-bold);
   @include plain() {
     text-decoration: none;
   }
@@ -124,7 +123,7 @@ a {
   @include active() {
     text-decoration: none;
   }
-  @include link-colors($main-color-1);
+  @include link-colors($text-color-a);
   @include transition(map-get($link, transition));
 }
 

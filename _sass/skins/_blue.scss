@@ -1,0 +1,79 @@
+///
+// Skin: Blue
+// Author: 小天
+// Email: cloudin@foxmail.com
+///
+
+// main colors
+$main-color-1:     #3273dc;
+$text-color-1:     #188EAC;
+
+$main-color-2:     #fca24d;
+$text-color-2:     #fff;
+
+$main-color-3:     #188EAC;
+$text-color-3:     #fff;
+
+$main-color-theme-light: rgba(#000, .9);
+$main-color-theme-dark:  rgba(#fff, .9);
+
+// page background
+$background-color: #fff;
+
+// text colors
+$text-color-theme-light-d: #000;
+$text-color-theme-light:   #222;
+$text-color-theme-light-l: #888;
+
+$text-color-theme-dark-d:  #fff;
+$text-color-theme-dark:    rgba(#fff, .95);
+$text-color-theme-dark-l:  rgba(#fff, .85);
+
+$text-color-d:     $text-color-theme-light-d;
+$text-color:       $text-color-theme-light;
+$text-color-l:     $text-color-theme-light-l;
+
+// 超链接的颜色
+$text-color-a: #3273dc;
+$text-color-a-light: #3273dc;
+$text-color-a-dark: #3273dc;
+
+$text-background-color: rgba(#000, .05);
+
+// header and footer colors
+$header-text-color: #fff;
+$header-background: #188EAC;
+
+// footer and footer colors
+$footer-text-color: #188EAC;
+$footer-background: #fafafa;
+
+
+// border and shadow colors
+$border-color:     mix(#000, $background-color, 20%);
+$border-color-l:   mix(#000, $background-color, 10%);
+$decorate-color:   rgba(#000, .1);
+$mask-color:       rgba(#000, .9);
+$select-color:     rgba($main-color-1, .5);
+
+// function colors
+$green:           #52c41a;
+$blue:            #1890ff;
+$yellow:          #fa8c16;
+$red:             #f5222d;
+$text-color-function: #fff;
+
+// logo colors
+$mail-color:       #0072c5;
+$weibo-color:      #e6162d;
+$facebook-color:   #4267b2;
+$google-plus-color:#ea4335;
+$twitter-color:    #1da1f2;
+$douban-color:     #42bd56;
+$github-color:     #000;
+$linkedin-color:   #1074af;
+$npm-color:        #fff;
+$telegram-color:   #32afed;
+
+// highlight colors
+@import "skins/highlight/tomorrow";

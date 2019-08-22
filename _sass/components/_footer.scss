@@ -11,11 +11,11 @@
     color: $footer-text-color;
   }
   a {
-    @include link-colors ($footer-text-color, $main-color-1);
+    @include link-colors ($footer-text-color);
   }
   .site-info {
     margin: map-get($spacers, 3) auto 0 auto;
-    font-size: map-get($base, font-size-xs);
+    font-size: map-get($base, font-size-sm);
     text-align: center;
     .menu {
       line-height: map-get($base, line-height-xs);
