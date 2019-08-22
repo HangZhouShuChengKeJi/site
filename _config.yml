@@ -42,7 +42,16 @@ collections:
       defaults:
         - scope:
             path: ""
-            type: my_collection
+            type: doc
+          values:
+            layout: article
+  # blog 集合
+  blog:
+      output: true
+      defaults:
+        - scope:
+            path: ""
+            type: blog
           values:
             layout: article
 
